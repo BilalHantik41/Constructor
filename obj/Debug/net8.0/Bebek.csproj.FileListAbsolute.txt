@@ -1,0 +1,15 @@
+C:\Users\Administrator\Patika+ C#\Ctor Ödev\Bebek\Bebek\bin\Debug\net8.0\Bebek.exe
+C:\Users\Administrator\Patika+ C#\Ctor Ödev\Bebek\Bebek\bin\Debug\net8.0\Bebek.deps.json
+C:\Users\Administrator\Patika+ C#\Ctor Ödev\Bebek\Bebek\bin\Debug\net8.0\Bebek.runtimeconfig.json
+C:\Users\Administrator\Patika+ C#\Ctor Ödev\Bebek\Bebek\bin\Debug\net8.0\Bebek.dll
+C:\Users\Administrator\Patika+ C#\Ctor Ödev\Bebek\Bebek\bin\Debug\net8.0\Bebek.pdb
+C:\Users\Administrator\Patika+ C#\Ctor Ödev\Bebek\Bebek\obj\Debug\net8.0\Bebek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Patika+ C#\Ctor Ödev\Bebek\Bebek\obj\Debug\net8.0\Bebek.AssemblyInfoInputs.cache
+C:\Users\Administrator\Patika+ C#\Ctor Ödev\Bebek\Bebek\obj\Debug\net8.0\Bebek.AssemblyInfo.cs
+C:\Users\Administrator\Patika+ C#\Ctor Ödev\Bebek\Bebek\obj\Debug\net8.0\Bebek.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Patika+ C#\Ctor Ödev\Bebek\Bebek\obj\Debug\net8.0\Bebek.sourcelink.json
+C:\Users\Administrator\Patika+ C#\Ctor Ödev\Bebek\Bebek\obj\Debug\net8.0\Bebek.dll
+C:\Users\Administrator\Patika+ C#\Ctor Ödev\Bebek\Bebek\obj\Debug\net8.0\refint\Bebek.dll
+C:\Users\Administrator\Patika+ C#\Ctor Ödev\Bebek\Bebek\obj\Debug\net8.0\Bebek.pdb
+C:\Users\Administrator\Patika+ C#\Ctor Ödev\Bebek\Bebek\obj\Debug\net8.0\Bebek.genruntimeconfig.cache
+C:\Users\Administrator\Patika+ C#\Ctor Ödev\Bebek\Bebek\obj\Debug\net8.0\ref\Bebek.dll
